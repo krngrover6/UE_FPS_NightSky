@@ -1,0 +1,28 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "5.0EA",
+	"Category": "",
+	"Description": "",
+	"Plugins": [
+		{
+			"Name": "AgentIntegrationKit",
+			"Enabled": true
+		},
+		{
+			"Name": "UdpMessaging",
+			"Enabled": false
+		},
+		{
+			"Name": "EditorTelemetry",
+			"Enabled": false
+		},
+		{
+			"Name": "RuntimeTelemetry",
+			"Enabled": false
+		},
+		{
+			"Name": "CommonUI",
+			"Enabled": true
+		}
+	]
+}
