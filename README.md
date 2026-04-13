@@ -1,6 +1,6 @@
 # FirstPersonShooter — FPS Alien Drone Survival
 
-A first-person survival shooter built in **Unreal Engine 5.0 EA** where you fight off waves of alien drones.
+A first-person survival shooter built in **Unreal Engine 5.6.1 where you fight off waves of alien drones.
 
 ## About
 
@@ -32,7 +32,7 @@ Content/
 ## Getting Started
 
 1. Clone the repo
-2. Open `FirstPersonShooter.uproject` with Unreal Engine 5.0 EA
+2. Open `FirstPersonShooter.uproject` with Unreal Engine 5.6.1
 3. Open the `FPS_Level` map and hit Play
 
 ## Status
